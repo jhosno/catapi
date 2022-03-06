@@ -1,0 +1,56 @@
+{
+  "cats": [
+    {
+      "id": 0,
+      "name": "michu",
+      "size": "large",
+      "eyecolor": "green",
+      "nosecolor": "black",
+      "coatpattern": "solid",
+      "coattype": "wirehair",
+      "coatcolors": [{ "coat0": "black" }, { "coat1": "" }, { "coat2": "" }]
+    },
+    {
+      "id": 1,
+      "name": "pancho",
+      "size": "large",
+      "eyecolor": "green",
+      "nosecolor": "pink",
+      "coatpattern": "tuxedo",
+      "coattype": "longhair",
+      "coatcolors": [
+        { "coat0": "white" },
+        { "coat1": "black" },
+        { "coat2": "" }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "luna",
+      "size": "medium",
+      "eyecolor": "green",
+      "nosecolor": "pink partialy black",
+      "coatpattern": "tuxedo",
+      "coattype": "longhair",
+      "coatcolors": [
+        { "coat0": "white" },
+        { "coat1": "black" },
+        { "coat2": "" }
+      ]
+    },
+
+    {
+      "id": 0,
+      "name": "duquesa",
+      "size": "large",
+      "eyecolor": "green",
+      "nosecolor": "pink",
+      "coatpattern": "Patched tabby",
+      "coatcolors": [
+        { "coat0": "blue" },
+        { "coat1": "cream" },
+        { "coat2": "apricot" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "housecatcoat": [
+    {
+      "solid": [
+        {
+          "type": "full",
+          "coat": [{ "color": "black" }],
+          "descrip": "dense coal black or ebony",
+          "trivia": "highlights are reddish, not blue",
+          "eye": [
+            { "color": "copper" },
+            { "color": "orange" },
+            { "color": "green" }
+          ],
+          "nose": [{ "color": "black" }, { "color": "charcoal" }],
+          "beans": [{ "color": "black" }, { "color": "charcoal" }]
+        },
+        {
+          "type": "dilute",
+          "coat": [{ "color": "blue" }],
+          "descrip": "blue (blue grey)",
+          "trivia": "an intensified indigo con be bred",
+          "eye": [
+            { "color": "copper" },
+            { "color": "orange" },
+            { "color": "green" }
+          ],
+          "nose": [{ "color": "blue-grey" }],
+          "beans": [{ "color": "blue-grey" }]
+        },
+        {
+          "type": "full",
+          "coat": [{ "color": "chocolate" }],
+          "descrip": "chocolate, chestnut or brown",
+          "trivia": "rich chestnut brown",
+          "eye": [{ "color": "copper" }, { "color": "orange" }],
+          "nose": [{ "color": "brown" }],
+          "beans": [{ "color": "brown" }, { "color": "cinnamon" }]
+        },
+        {
+          "type": "dilute",
+          "coat": [{ "color": "lilac" }],
+          "descrip": "lilac, lavander or frost",
+          "trivia": "frosty grey tinged pin",
+          "eye": [
+            { "color": "copper" },
+            { "color": "orange" },
+            { "color": "golden" }
+          ],
+          "nose": [{ "color": "lavander pink" }],
+          "beans": [{ "color": "lavander pink" }]
+        },
+        {
+          "type": "full",
+          "coat": [{ "color": "cinnamon" }],
+          "descrip": "light brown to cinnamon",
+          "trivia": "",
+          "eye": [{ "color": "orange" }],
+          "nose": [{ "color": "cinnamon" }],
+          "beans": [{ "color": "cinnamon" }]
+        },
+        {
+          "type": "dilute",
+          "coat": [{ "color": "fawn" }],
+          "descrip": "pale pinkish fawn",
+          "trivia": "",
+          "eye": [{ "color": "orange" }, { "color": "golden" }],
+          "nose": [{ "color": "pale fawn" }],
+          "beans": [{ "color": "pale fawn" }]
+        },
+        {
+          "type": "full",
+          "coat": [{ "color": "orange" }],
+          "descrip": "red/orange/ginger: deep rich orange",
+          "trivia": "red cats are most often male",
+          "eye": [{ "color": "orange" }, { "color": "copper" }],
+          "nose": [{ "color": "brick red" }],
+          "beans": [{ "color": "brick red" }]
+        },
+        {
+          "type": "dilute",
+          "coat": [{ "color": "cream" }],
+          "descrip": "buff cream",
+          "trivia": "",
+          "eye": [{ "color": "orange" }, { "color": "copper" }],
+          "nose": [{ "color": "pink" }],
+          "beans": [{ "color": "pink" }]
+        },
+        {
+          "type": "dilute",
+          "coat": [{ "color": "caramel" }],
+          "descrip": "caramel, blue-based caramel",
+          "trivia": "",
+          "eye": [
+            { "color": "golden" },
+            { "color": "copper" },
+            { "color": "green" }
+          ],
+          "nose": [{ "color": "blue-grey" }],
+          "beans": [{ "color": "blue-grey" }]
+        },
+        {
+          "type": "dilute",
+          "coat": [{ "color": "taupe" }],
+          "descrip": "taupe, lilac based caramel",
+          "trivia": "",
+          "eye": [
+            { "color": "golden" },
+            { "color": "copper" },
+            { "color": "orange" }
+          ],
+          "nose": [{ "color": "lavander pink" }],
+          "beans": [{ "color": "lavander pink" }]
+        },
+        {
+          "type": "full",
+          "coat": [{ "color": "albino" }],
+          "descrip": "total lack of pigment",
+          "trivia": "blue and pink albino eyes reflect reddich at night, while non albino blue eyes (below) reflect greenish",
+          "eye": [{ "color": "blue" }, { "color": "pink" }],
+          "nose": [{ "color": "pink" }],
+          "beans": [{ "color": "pink" }]
+        },
+        {
+          "type": "full",
+          "coat": [{ "color": "white" }],
+          "descrip": "white is not a color but supression of the color genes, so a white cat often has colored kittens",
+          "trivia": "A cat that looks white can still have any eye color. Besides, a white cat with blue eyes have high chances of deafness",
+          "eye": [{ "color": "blue" }, { "color": "orange" }],
+          "nose": [{ "color": "pink" }],
+          "beans": [{ "color": "pink" }]
+        }
+      ],
+      "tabby": [
+        {
+          "type": "brown tabby",
+          "coat": [{ "color": "black" }, { "color": "coppery brown" }],
+          "descrip": "black on coppery brown",
+          "trivia": "",
+          "eye": [
+            { "color": "copper" },
+            { "color": "orange" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "brick red" }],
+          "beans": [{ "color": "black" }, { "color": "brown" }]
+        },
+        {
+          "type": "tabby",
+          "coat": [{ "color": "blue" }, { "color": "warm beige" }],
+          "descrip": "blue on warm beige",
+          "trivia": "",
+          "eye": [
+            { "color": "copper" },
+            { "color": "orange" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "old rose" }],
+          "beans": [{ "color": "rose" }]
+        },
+        {
+          "type": "chocolate tabby",
+          "coat": [
+            { "color": "dark chocolate" },
+            { "color": "milk chocolate" }
+          ],
+          "descrip": "dark chocolate on milk chocolate",
+          "trivia": "",
+          "eye": [
+            { "color": "copper" },
+            { "color": "orange" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "brown" }, { "color": "brick red" }],
+          "beans": [{ "color": "brick red" }, { "color": "cinnamon" }]
+        },
+        {
+          "type": "lilac tabby",
+          "coat": [{ "color": "frosty grey" }, { "color": "pale lavander" }],
+          "descrip": "frosty on pale lavander",
+          "trivia": "",
+          "eye": [
+            { "color": "copper" },
+            { "color": "orange" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "lavander" }],
+          "beans": [{ "color": "pink" }]
+        },
+        {
+          "type": "cinnammon tabby",
+          "coat": [{ "color": "cinnamon" }, { "color": "honey" }],
+          "descrip": "",
+          "trivia": "",
+          "eye": [
+            { "color": "orange" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "cinnamon" }, { "color": "coral" }],
+          "beans": [{ "color": "cinnamon" }]
+        },
+        {
+          "type": "tawn tabby",
+          "coat": [{ "color": "dense fawn" }, { "color": "pale ivory" }],
+          "descrip": "dense fawn on pale ivory",
+          "trivia": "",
+          "eye": [
+            { "color": "orange" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "pale fawn" }],
+          "beans": [{ "color": "pale fawn" }]
+        },
+        {
+          "type": "red tabby",
+          "coat": [{ "color": "deep red" }, { "color": "red" }],
+          "descrip": "red taby, ginger tabby, 'mermelade cat'",
+          "trivia": "",
+          "eye": [
+            { "color": "orange" },
+            { "color": "copper" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "brick red" }],
+          "beans": [{ "color": "brick red" }]
+        },
+        {
+          "type": "cream tabby",
+          "coat": [{ "color": "peach of sand" }, { "color": "pale cream" }],
+          "descrip": "peach of sand pale cream",
+          "trivia": "",
+          "eye": [
+            { "color": "orange" },
+            { "color": "copper" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "pink" }],
+          "beans": [{ "color": "pink" }]
+        },
+        {
+          "type": "cream tabby",
+          "coat": [{ "color": "peach of sand" }, { "color": "pale cream" }],
+          "descrip": "peach of sand pale cream",
+          "trivia": "",
+          "eye": [
+            { "color": "orange" },
+            { "color": "copper" },
+            { "color": "yellow" },
+            { "color": "hazel" }
+          ],
+          "nose": [{ "color": "pink" }],
+          "beans": [{ "color": "pink" }]
+        }
+      ]
+    }
+  ]
+}
